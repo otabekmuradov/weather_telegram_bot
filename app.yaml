@@ -1,0 +1,2 @@
+runtime: python32
+entrypoint: python main.py
